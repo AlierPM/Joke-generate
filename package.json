@@ -17,12 +17,13 @@
   "bugs": {
     "url": "https://github.com/AlierPM/webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/AlierPM/webpack-boilerplate#readme",
+  "homepage": "https://alierpm.github.io/webpack-boilerplate/",
   "devDependencies": {
     "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
+    "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "sass": "^1.54.4",
     "sass-loader": "^13.0.2",
