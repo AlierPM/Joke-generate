@@ -1,21 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Webpack Boilerplate: Set up project with webpack
+# Webpack Boilerplate:
 
 "This is an exercise to build a simple yet powerful webpack boilerplate, which I will later use as a starting point in all my projects. I followed the webpack official guides,to implement these installations and configuration.
 
+## Webpack App Starter
+Frontend environment for building JavaScript applications
 
-## Built With
+Includes the following features...
 
-- Major languages
-   * HTML
-   * SCSS
-   * JS
+Babel Loader
+Sass Loader With Dart Sass
+HTMLWebpackPlugin
+WebpackDevServer
+Asset Resource Loader
+Source Maps
+Caching
 
-- Technologies used:
-    * Git
-    * GitHub
-    * Vs code
+## Usage
+Run Dev Server (Port 3000)
+          npm run dev
+
+## Build for production
+        npm run build
+
+## Demo App
+The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
+  * index.js (main javascript)
+  * template.html (template)
+  * styles/main.scss (styles)
 
 
 
@@ -40,8 +53,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Demo App inspired by:
+- [Tutorial by Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
 ## 📝 License
 
