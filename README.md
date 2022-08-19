@@ -2,7 +2,7 @@
 
 # Webpack Boilerplate: Set up project with webpack
 
-"This is an exercise to build a simple yet powerful webpack boilerplate, which I will later use as a starting point in all my projects. I followed the webpack official guides,to implement this installations and configuration.
+"This is an exercise to build a simple yet powerful webpack boilerplate, which I will later use as a starting point in all my projects. I followed the webpack official guides,to implement these installations and configuration.
 
 
 ## Built With
