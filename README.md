@@ -25,7 +25,7 @@ Caching
 ## Build for production
         npm run build
 
-## Demo App [Joke Generator](https://alierpm.github.io/webpack-boilerplate/dist/index.html)
+## Demo App [Joke Generator](https://alierpm.github.io/Joke-generate/dist/index.html)
 The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
   * index.js (main javascript)
   * template.html (template)
